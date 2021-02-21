@@ -2,7 +2,7 @@
 layout: post
 title:  "블로그를 시작합니다"
 author: "ssbagun"
-comments: false
+comments: true
 tags: github.io 
 ---
 
