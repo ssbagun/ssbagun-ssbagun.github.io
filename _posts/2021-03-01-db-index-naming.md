@@ -3,7 +3,7 @@ layout: post
 title:  "SQL Server Index Naming Conventions"
 author: "ssbagun"
 comments: true
-tags: github.io 
+tags: SQL DB NamingConventions
 ---
 
 PK_ for primary keys
